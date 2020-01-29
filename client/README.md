@@ -1680,7 +1680,7 @@ Use the following [`launch.json`](https://code.visualstudio.com/docs/editor/debu
         "test",
         "--runInBand",
         "--no-cache",
-        "--env=jsdom"
+        "react-scripts"
       ],
       "cwd": "${workspaceRoot}",
       "protocol": "inspector",
