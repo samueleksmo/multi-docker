@@ -33,7 +33,7 @@
                 }
             ],
             "links": ["client","server"],
-            "memory": 128,
+            "memory": 128
         }
     ]
 }
